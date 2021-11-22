@@ -1,3 +1,5 @@
+MARLIN firmware for MKS SGEN L v2 with LPC1768 MCU. My 3d printer is Ender 3.
+
 # Configurations
 Pre-tested Configurations for Marlin Firmware 2.0.9.2
 
